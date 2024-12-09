@@ -1,16 +1,39 @@
-### Hi there my name is Luis Reche 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Luis+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+</div>
 
-<!--
-**RecheDev/RecheDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I?
 
-Here are some ideas to get you started:
+ ```python
+  class WhoAmI:
+    user = 'Luis Reche'
+	current_edu = "Development of Web Apps DAW"
+    currently_learning = "Java, Python, SQL, HTML, CSS"
+    fun_fact = "I love darkness"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	hobbies = [
+				'Music',
+                         'Fitness',
+			 	'Gaming',
+				'Sherlock Holmes Movies'
+	          ]
+	
+	def getCity():
+		return Mallorca_Spain()
+	
+	def Ambitions():
+		BeingAGoodSoftwareEngineer()
+		NeverStopLearning()
+         StayHappy()
+
+""" Im currently following the MOOC Java Course of the University of Helsinki
+
+To be continued when I build personal projects..."
+
+See you soon """
+
+
+
+
+
+
