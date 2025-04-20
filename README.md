@@ -7,8 +7,8 @@
  ```python
   class WhoAmI:
     user = 'Luis Reche'
-	current_edu = "Development of Web Apps DAW"
-    currently_learning = "Java, Python, SQL, HTML, CSS"
+	current_edu = "Data Analyst in Power BI"
+    currently_learning = "Power BI, Python, SQL"
     fun_fact = "I love darkness"
 
 	hobbies = [
@@ -22,15 +22,11 @@
 		return Mallorca_Spain()
 	
 	def Ambitions():
-		BeingAGoodSoftwareEngineer()
+		BeingAGoodDataAnalyst()
 		NeverStopLearning()
          StayHappy()
 
-""" Im currently following the MOOC Java Course of the University of Helsinki
 
-To be continued when I build personal projects..."
-
-See you soon """
 
 
 
