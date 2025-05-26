@@ -7,8 +7,8 @@
  ```python
   class WhoAmI:
     user = 'Luis Reche'
-	current_edu = "Data Analyst in Power BI"
-    currently_learning = "Power BI, Python, SQL"
+	current_edu = "Software Engineer"
+    currently_learning = "Java, Linux, Python, SQL"
     fun_fact = "I love darkness"
 
 	hobbies = [
