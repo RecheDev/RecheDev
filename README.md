@@ -1,30 +1,12 @@
 # Hey! I'm Luis 👋
 
-**Product Engineer** • **Web Developer** • **Spain**
+**Software Engineer**
 
-Passionate about building modern web applications with focus on user experience.
+Currently I will be focusing on training my skills without any assistance from LLMs.
 
-```python
-class Developer:
-    name = "Luis Reche"
-    focus = ["Next.js", "React", "TypeScript", "Web3"]
-    currently_learning = ["Java", "Linux", "Python", "SQL"]
-    location = "Mallorca, Spain"
-    
-    def current_goal(self):
-        return "Building amazing web experiences"
-```
+Anything that I will upload to GitHub will be 100% built by myself + research on google/stackoverflow.
 
-## What I Work With
-
-**Web Development**  
-Next.js • React • TypeScript • Tailwind CSS • Node.js
-
-## Projects
-
-🔗 [**Todo List App**](https://todolistapp-inky-ten.vercel.app/login) - Task management app built with TypeScript
-
----
+I don't think using LLMs is a bad thing but in my learning route I decided to never use them.
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/luisrecheamado/)
 
