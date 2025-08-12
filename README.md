@@ -2,7 +2,7 @@
 
 **Software Engineer**
 
-Currently I will be focusing on training my skills to become a fullstack developer with the focus on JavaScript/TypeScript.
+Currently I am on the path of training my skills to become a fullstack developer with the focus on JavaScript/TypeScript.
 
 I also like to be up to date with IA tools that improve productivity.
 
