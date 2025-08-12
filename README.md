@@ -2,11 +2,9 @@
 
 **Software Engineer**
 
-Currently I will be focusing on training my skills without any assistance from LLMs.
+Currently I will be focusing on training my skills to become a fullstack developer with the focus on JavaScript/TypeScript.
 
-Anything that I will upload to GitHub will be 100% built by myself + research on google/stackoverflow.
-
-I don't think using LLMs is a bad thing but in my learning route I decided to never use them.
+I also like to be up to date with IA tools that improve productivity.
 
 📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/luisrecheamado/)
 
