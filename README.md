@@ -1,8 +1,6 @@
 # Hey! I'm Luis 👋
 
-**Software Engineer**
-
-Fullstack Web Dev!
+**Fullstack Dev**
 
 *Never stop learning, stay happy* ✨
 
