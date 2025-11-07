@@ -13,12 +13,12 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **Fullstack Product Developer** who believes in continuous learning and maintaining a positive mindset. I love building web applications that solve real-world problems and constantly exploring new technologies to improve my craft.
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -68,7 +68,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ---
 
-## 💭 Quote of the Day
+## Quote of the Day
 
 <div align="center">
 
