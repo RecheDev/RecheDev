@@ -58,8 +58,6 @@ I'm a passionate **Fullstack Product Developer** who believes in continuous lear
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RecheDev&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RecheDev&theme=radical&hide_border=true)
-
 </div>
 
 
