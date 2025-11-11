@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a passionate **Fullstack Product Developer** who believes in continuous learning and maintaining a positive mindset. I love building web applications that solve real-world problems and constantly exploring new technologies to improve my craft.
+I'm a passionate **Fullstack Product Developer**
 
 
 ## Tech Stack
@@ -26,7 +26,6 @@ I'm a passionate **Fullstack Product Developer** who believes in continuous lear
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
